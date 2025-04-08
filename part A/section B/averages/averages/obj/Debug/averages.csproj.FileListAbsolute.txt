@@ -1,0 +1,8 @@
+C:\Users\user1\Desktop\averages\averages\bin\Debug\averages.exe.config
+C:\Users\user1\Desktop\averages\averages\bin\Debug\averages.exe
+C:\Users\user1\Desktop\averages\averages\bin\Debug\averages.pdb
+C:\Users\user1\Desktop\averages\averages\obj\Debug\averages.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\averages\averages\obj\Debug\averages.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\averages\averages\obj\Debug\averages.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\averages\averages\obj\Debug\averages.exe
+C:\Users\user1\Desktop\averages\averages\obj\Debug\averages.pdb

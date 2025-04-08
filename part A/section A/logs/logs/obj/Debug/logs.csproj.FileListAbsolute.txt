@@ -1,0 +1,8 @@
+C:\Users\user1\Desktop\logs\logs\bin\Debug\logs.exe.config
+C:\Users\user1\Desktop\logs\logs\bin\Debug\logs.exe
+C:\Users\user1\Desktop\logs\logs\bin\Debug\logs.pdb
+C:\Users\user1\Desktop\logs\logs\obj\Debug\logs.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\logs\logs\obj\Debug\logs.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\Desktop\logs\logs\obj\Debug\logs.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\logs\logs\obj\Debug\logs.exe
+C:\Users\user1\Desktop\logs\logs\obj\Debug\logs.pdb
